@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Binod Shrestha
+- 👀 I’m interested in Python Programming , Machine learning ,Web Development and Object oriented programming
+- 🌱 I’m currently learning Python and Machine Learning
+- 📫 How to reach me via email shresthabinod530@gmail.com
