@@ -4,7 +4,7 @@
 <img 
   align="right"
   alt="coding"
-  width="380"
+  width="400"
   src="https://github.com/user-attachments/assets/f47155cb-4c1d-4227-829d-6749a69489b5" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binodsth2&label=Profile%20views&color=0e75b6&style=flat" alt="binodsth2" /> </p>
@@ -14,6 +14,8 @@
 - 👨‍💻 All of my projects are available at [https://www.binodshrestha2.com.np/](https://www.binodshrestha2.com.np/)
 
 - 📫 How to reach me **shresthabinod530@gmail.com**
+
+- 📫 How to reach me **binods021419@nec.edu.np**
 
 - ⚡ Fun fact **I am funny and little scary 🤨**
 
@@ -30,9 +32,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shresthabiw"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shresthabiw" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=binodsth2&show_icons=true&locale=en&layout=compact" alt="binodsth2" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=binodsth2&show_icons=true&locale=en" alt="binodsth2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=binodsth2&" alt="binodsth2" /></p>
 
