@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binod Shrestha</h1>
-<h3 align="center">A passionate Electronics and Communication Engineer and Researcher in AI/ML from Nepal</h3>
+<h3 align="center">A passionate Electronics and Communication Engineer and Researcher in Inclusive Learning, Biomedical data analysis and AI/ML from Nepal</h3>
 
 <img 
   align="right"
