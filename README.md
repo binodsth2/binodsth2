@@ -1,30 +1,71 @@
-<h1 align="center">Hi 👋, I'm Binod Shrestha</h1>
-<h3 align="center">A passionate Electronics and Communication Engineer and Researcher in Inclusive Learning, Biomedical data analysis and AI/ML from Nepal</h3>
 
-<img 
-  align="right"
-  alt="coding"
-  width="400"
-  src="https://github.com/user-attachments/assets/f47155cb-4c1d-4227-829d-6749a69489b5" />
+<h1 align="center">Hello ! 👋, I'm Binod Shrestha</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=binodsth2&label=Profile%20views&color=0e75b6&style=flat" alt="binodsth2" /> </p>
+<p align="center">
+  </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.binodshrestha2.com.np/](https://www.binodshrestha2.com.np/)
+## 👨‍💻 About Me
 
-- 📫 How to reach me **shresthabinod530@gmail.com**
+I am a **Electronics and Communication Engineering Student** at the **Nepal Engineering College (affiliated Pokhara University)** and a **Backend Developer** at **NIRMAN**.  
 
-- 📫 How to reach me **binods021419@nec.edu.np**
+My primary interest is **developing interactive and inclusive systems** that support **autistic children in learning, communication, and everyday experiences**. I aim to create **environments where children with Autism Spectrum Disorder (ASD) feel empowered, valued, and fully capable of achieving their potential**.
 
-- ⚡ Fun fact **I am funny and little scary 🤨**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/binodsth2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binodsth2" height="30" width="40" /></a>
-<a href="https://kaggle.com/binodsthp23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="binodsthp23" height="30" width="40" /></a>
-<a href="https://instagram.com/the_mixed_reality" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_mixed_reality" height="30" width="40" /></a>
+I am passionate about designing technology that promotes confidence, accessibility, and meaningful participation for every child.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python  
+- C  
+- C++
+- Typescript
+
+### Robotics & Embedded Systems  
+- Arduino  
+- Raspberry Pi  
+- Computer Vision
+
+### Machine Learning
+- TensorFlow  
+- Keras
+- pandas
+- NumPy
+
+### Design & Simulation
+- MATLAB   
+- PCB Design
+
+### Tools & Platforms
+- Git  
+- GitHub  
+- Cisco Packet Tracer
+
+---
+
+## 📚 Current Interests
+
+- Assistive Technologies especially for Children with Autism
+- Intelligent Interfaces 
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **shresthabinod530@gmail.com** and **binods021419@nec.edu.np**  
+- 💼 LinkedIn: **https://linkedin.com/in/binodsth2**
+
+---
+
+## ✨ Motto
+
+> Passionate about bridging the gap between assistive technologies and children with autism, especially in under-resourced communities in Nepal.
+---
+
+<p align="center">
+  Thank You !!
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
