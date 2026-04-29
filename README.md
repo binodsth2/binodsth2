@@ -19,31 +19,15 @@ I am passionate about designing technology that promotes confidence, accessibili
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- Python  
-- C  
-- C++
-- Typescript
+**Programming Languages**: Python, C, C++, Typescript
 
-### Robotics & Embedded Systems  
-- Arduino  
-- Raspberry Pi  
-- Computer Vision
+**Robotics & Embedded Systems**: Arduino, Computer Vision
 
-### Machine Learning
-- TensorFlow  
-- Keras
-- pandas
-- NumPy
+**Machine Learning**: NumPy, Pandas, Keras, TensorFlow
 
-### Design & Simulation
-- MATLAB   
-- PCB Design
+**Design and Simulation**: MATLAB
 
-### Tools & Platforms
-- Git  
-- GitHub  
-- Cisco Packet Tracer
+**Tools and Platform**: Git, GitHub, Cisco Packet Tracer
 
 ---
 
