@@ -17,6 +17,22 @@ I am passionate about designing technology that promotes confidence, accessibili
 
 ---
 
+## 🏆 Awards & Achievements
+* **Best Paper Award** (Track 2: AI & Machine Learning) – IEEE ICTP 2026
+* **Fellow** – NSSR DataCamp Fellowship (Jan 2026)
+* **Dean’s List** – Pokhara University (2021 – 2026)
+* **Full-Tuition Merit Scholarship** – Nepal Engineering College (2021 – 2025)
+* **College Representative** – UbuCon Asia 2025, Kathmandu
+
+---
+
+## 📝 Publications
+* S. Shrestha, A. Shah, **B. Shrestha**, A. Rai, K. Shrestha, “**DKT based AR framework for predictive color learning assessment in children with autism in Nepal**,” in *2026 International Conference on ICT and Photonics (ICTP)*, IEEE, Feb. 2026, pp. 1–6.  
+  👉 **DOI**: [10.1109/ICTP67998.2026.11485369](https://doi.org/10.1109/ICTP67998.2026.11485369) *(Best Paper Award - Track 2: AI & Machine Learning)*
+
+---
+
+
 ## 🛠️ Technical Skills
 
 **Programming Languages**: Python, C, C++, Typescript
