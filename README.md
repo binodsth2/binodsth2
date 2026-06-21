@@ -55,9 +55,9 @@ I am passionate about designing technology that promotes confidence, accessibili
 ---
 
 ## 📫 Connect With Me
-
-- 📧 Email: **shresthabinod530@gmail.com** and **binods021419@nec.edu.np**  
-- 💼 LinkedIn: **https://linkedin.com/in/binodsth2**
+- 📧 Email: **shresthabinod530@gmail.com** and **binods021419@nec.edu.np**
+- 💼 LinkedIn: [binodsth2](https://linkedin.com/in/binodsth2)
+- 🎓 Google Scholar: [Binod Shrestha](https://scholar.google.com/citations?user=C4EE1soAAAAJ&hl=en)
 
 ---
 
