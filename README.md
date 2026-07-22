@@ -4,7 +4,7 @@
 <p align="center">
   </p>
 <p align="center">
-  <img src="DataCamp-AI-Engineer-Certification.png" alt="badge" width="200">
+  <img src="certification-ai-engineer-for-developers-associate-thumbnail.png" alt="badge" width="200">
 </p>
 
 ## 👨‍💻 About Me
