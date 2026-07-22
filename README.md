@@ -3,8 +3,9 @@
 
 <p align="center">
   </p>
-
----
+<p align="center">
+  <img src="DataCamp-AI-Engineer-Certification.png" alt="badge" width="200">
+</p>
 
 ## 👨‍💻 About Me
 
